@@ -152,7 +152,7 @@ document.addEventListener("DOMContentLoaded", function() {
         <p style="margin-bottom: 1.5rem;">
             LinkedIn: <a href="${linkedinFull}" target="_blank">linkedin.com/in/${linkedinUser}</a>
         </p>
-        <a href="Aarati_Resume.pdf" target="_blank" class="btn-cv">View CV</a>
+        <a href="Aarati_Resume(1).pdf" target="_blank" class="btn-cv">View CV</a>
     `;
 
     const container = document.getElementById('contact-container');
